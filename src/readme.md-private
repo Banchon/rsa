@@ -1,0 +1,12 @@
+RSA: My Java Implementation
+===========================
+
+Introduction
+------------
+This program aims to provide the means to encrypt and decrypt files 
+using the RSA algorithm.  
+	
+How to Use
+---------- 
+First, make an instance of the key generator, RSAKeyGenerator. Next, call 
+it's RSAKey makeKey(byte) method, and specify which kind of k
